@@ -1,9 +1,9 @@
-# fl-learning-to-unlearn
+# fl-learn-to-unlearn
 
 ## Install LTU (Python 3.11.9):
 
 ``` python
-cd fl-learning-to-unlearn
+cd fl-learn-to-unlearn
 ```
 
 ``` python
