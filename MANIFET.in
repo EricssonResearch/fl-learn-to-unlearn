@@ -1,0 +1,1 @@
+recursive-include ltu/data/fmnist *.pickle
