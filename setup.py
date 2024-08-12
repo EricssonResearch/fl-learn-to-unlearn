@@ -3,14 +3,14 @@
 from setuptools import setup, find_packages
 
 
-with open('requirements.txt') as f:
+with open('requirements.txt') as f:  # pylint: disable=W1514
     required = f.read().splitlines()
 
 setup(
     name='ltu',
     version='0.0.1',
     packages=find_packages(include=['ltu', 'ltu.*']),
-    package_data={'fmnist' :['fmnist/*.pickle']},
+    package_data={'fmnist': ['fmnist/*.pickle']},
     include_package_data=True,
     install_requires=required,
 )
