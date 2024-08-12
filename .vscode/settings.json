@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "argmax",
+        "encs",
+        "finfo",
+        "fmnist",
+        "optim",
+        "relu",
+        "selu",
+        "softmax",
+        "torchvision",
+        "Unnorm"
+    ]
+}
